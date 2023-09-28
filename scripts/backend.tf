@@ -5,6 +5,6 @@ terraform {
          storage_account_name = "flixtubestore1"
          container_name       = "terrastore"
          key                  = "terraform.tfstate"
-#        access_key =
+#        access_key = 
      }
 }
